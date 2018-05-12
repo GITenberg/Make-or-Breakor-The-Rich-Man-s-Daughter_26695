@@ -1,0 +1,33 @@
+_repo: Make-or-Breakor-The-Rich-Man-s-Daughter_26695
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26695-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William T. (William Taylor)
+    - Adams, William Taylor
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
+description: ''
+gutenberg_issued: '2008-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26695'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Merchants -- Juvenile fiction'
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+- !lcsh 'Adopted children -- Juvenile fiction'
+title: Make or Break; or, The Rich Man's Daughter
+url: http://www.gutenberg.org/ebooks/26695
